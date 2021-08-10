@@ -26,16 +26,3 @@ Highlights:
 
 Ps. Detections with green color are these above 70% accuracy:
 
-![](RackMultipart20210810-4-n0v4kc_html_bd0b45c9021f622f.jpg)
-
-![](RackMultipart20210810-4-n0v4kc_html_45723fb109639caf.jpg)
-
-![](RackMultipart20210810-4-n0v4kc_html_77856cc800adb88.jpg)
-
-![](RackMultipart20210810-4-n0v4kc_html_a2d784756334ce96.png)
-
-![](RackMultipart20210810-4-n0v4kc_html_213d0ea36e239431.jpg)
-
-![](RackMultipart20210810-4-n0v4kc_html_bca0f0dcdd42ed69.jpg)
-
-![](RackMultipart20210810-4-n0v4kc_html_e12fbee38594a0f.jpg)

@@ -26,3 +26,8 @@ Highlights:
 
 Ps. Detections with green color are these above 70% accuracy:
 
+![alt text](https://github.com/aaz000966/FER/blob/main/images/image003.jpg)
+
+![alt text](https://github.com/aaz000966/FER/blob/main/images/image009.jpg)
+
+![alt text](https://github.com/aaz000966/FER/blob/main/images/image001.jpg)

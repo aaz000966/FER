@@ -24,3 +24,5 @@ Highlights:
 
 # Examples:
 
+Ps. Detections with green color are these above 70% accuracy:
+
